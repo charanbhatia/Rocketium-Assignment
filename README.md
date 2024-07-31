@@ -52,4 +52,4 @@ The server will start on port 3002 (or the port specified in the `PORT` environm
 
 ## Rest API Documentation 
 ```
-URL: https://www.postman.com/alantuning/workspace/postman/collection/32038946-55c5af4b-8c82-41f6-95c4-4ffd171623e1?action=share&creator=32038946
+https://www.postman.com/alantuning/workspace/postman/collection/32038946-55c5af4b-8c82-41f6-95c4-4ffd171623e1?action=share&creator=32038946
